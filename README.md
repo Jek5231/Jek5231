@@ -7,3 +7,11 @@
 >>blue
 >>>red
 
+***About me:***
++ I live in Russia
++ Graduated from the Institute
++ I love fishing and car mechanics
++ I have a cat.
+  + He's sleeping.
+  + He's eating.
+  + Just kitty

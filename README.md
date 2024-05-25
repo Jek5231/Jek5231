@@ -1,6 +1,6 @@
 ## Hi there 👋
 **There will be something here someday, but for now:**
-```HTML
+```html
 <marquee>WHEE!</marquee>
 ```
 >white

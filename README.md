@@ -14,4 +14,4 @@
 + I have a cat.
   + He's sleeping.
   + He's eating.
-  + Just kitty
+  + Just kitty :kissing_cat:
